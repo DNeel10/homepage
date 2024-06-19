@@ -226,7 +226,12 @@ textarea {
     flex-direction: column;
   }
 
-  .social-images {
+  .social-images--hero {
     align-self: flex-end;
   }
+
+  .social-images--footer {
+    align-self: flex-start;
+  }
+
 }
